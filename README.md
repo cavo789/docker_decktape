@@ -1,4 +1,4 @@
-# decktape_tips
+# Docker - Decktape
 
 ![Banner](./banner.svg)
 
